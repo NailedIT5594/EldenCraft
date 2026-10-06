@@ -1,0 +1,7 @@
+[EldenCraft] DLL_PROCESS_ATTACH triggered.
+[EldenCraft] MainThread started.
+[EldenCraft] Creating dummy device for hooking.
+[EldenCraft] Extracting ExecuteCommandLists function pointer from vtable.
+[EldenCraft] Creating hook for ExecuteCommandLists.
+[EldenCraft] MH_CreateHook returned: 7
+[EldenCraft] Failed to create hook for ExecuteCommandLists.

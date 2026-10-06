@@ -1,0 +1,28 @@
+{
+  "movement_parameters": [
+    {
+      "parameter_name": "jump_velocity",
+      "minecraft_target_value": 0.8,
+      "elden_ring_default": 1.0,
+      "status": "Adjusting for higher jump"
+    },
+    {
+      "parameter_name": "movement_acceleration",
+      "minecraft_target_value": 0.2,
+      "elden_ring_default": 0.15,
+      "status": "Increasing movement speed"
+    },
+    {
+      "parameter_name": "gravity_multiplier",
+      "minecraft_target_value": 1.2,
+      "elden_ring_default": 1.0,
+      "status": "Adjusting for lower gravity"
+    },
+    {
+      "parameter_name": "attack_swing_recovery",
+      "minecraft_target_value": 0.5,
+      "elden_ring_default": 0.7,
+      "status": "Reducing swing recovery time"
+    }
+  ]
+}
